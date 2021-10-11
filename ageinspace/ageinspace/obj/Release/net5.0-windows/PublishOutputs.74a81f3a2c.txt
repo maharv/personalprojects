@@ -1,0 +1,5 @@
+D:\personal\space age\ageinspace\published\ageinspace.exe
+D:\personal\space age\ageinspace\published\ageinspace.dll
+D:\personal\space age\ageinspace\published\ageinspace.deps.json
+D:\personal\space age\ageinspace\published\ageinspace.runtimeconfig.json
+D:\personal\space age\ageinspace\published\ageinspace.pdb

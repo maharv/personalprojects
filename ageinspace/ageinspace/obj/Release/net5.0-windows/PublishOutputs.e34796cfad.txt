@@ -1,0 +1,5 @@
+C:\Users\smptt\OneDrive\Desktop\ageinspace.exe
+C:\Users\smptt\OneDrive\Desktop\ageinspace.dll
+C:\Users\smptt\OneDrive\Desktop\ageinspace.deps.json
+C:\Users\smptt\OneDrive\Desktop\ageinspace.runtimeconfig.json
+C:\Users\smptt\OneDrive\Desktop\ageinspace.pdb
